@@ -1,0 +1,131 @@
+{
+  "main": {
+    "name":"Riken Gala",
+    "occupation":"Software Engineer",
+    "description":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
+    "image":"profilepic.jpg",
+    "bio":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "rikengala@gmail.com",
+    "phone": "+91-9821137382",
+    "address":{
+      "city":"Mumbai",
+      "state":"Maharashtra"
+      
+    },
+    "website": "http://rikengala.github.io/",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1WrO8hM9pxYOuWQeNy8EwviPXccT0fFom",
+    "social":[
+      {
+        "name":"facebook",
+        "url":"https://www.facebook.com/rikengala98",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"http://twitter.com",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/riken-gala-81a54b9a/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/rikengala",
+        "className":"fa fa-github"
+      }
+      
+    ]
+  },
+  "resume":{
+    "skillmessage":"",
+    "education":[
+      {
+        "school":"Dwarkadas J Sanghvi College of Engineering",
+        "degree":"Bachelors in Engineering",
+        "graduated":"July 2020",
+        "description":"I have pursued a Bachelors degree in Engineering with a major in Information Technology. I graduated with a CGPA of 8.8/10. I was also the Vice-Chairperson of the 'Computer Society of India' which aimed to help other students improve their skills in coding and help increase their knowldege in computer science by taking part in projects"
+      }
+    ],
+    "work":[
+      {
+        "company":"Cateina Technologies",
+        "title":"Intern",
+        "years":"March 2019 - Present",
+        "description": "Developed a mobile application using React Native to allow customers to manage their loyalty points. I also interfaced REST APIs for partner companies to retrieve data using Node JS and designed API documentation using Swagger. THe management of loyalty points is powered using the Stellar blockchain which allows customers to transfer and exchange loyalty points"
+      },
+      {
+        "company":"Birthvenue",
+        "title":"Intern",
+        "years":"February 2019 - February 2020",
+        "description":"Buit a web application using React and Flask to showcase ratings of different cryptocurrencies. Analyzed and identified parameters to rate crypto currencies and assisted in conceptualizing a rating algorithm for cryptocurrency investors."
+      }
+    ],
+    "skills":[
+      {
+        "name":"Java",
+        "level":"80%"
+      },
+      {
+        "name":"Javascript",
+        "level":"80%"
+      },
+      {
+        "name":"ReactJs",
+        "level":"60%"
+      },
+      {
+        "name":"CSS",
+        "level":"70%"
+      },
+      {
+        "name":"HTML5",
+        "level":"70%"
+      },
+      {
+        "name":"NodeJS",
+        "level":"50%"
+      },
+      {
+        "name":"MongoDB",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Blockchain-based Universal Loyalty Platform",
+        "category":"A React Native App used for management of loyalty points",
+        "image":"loyaltypoints.jpg",
+        "url":""
+      },
+      {
+        "title":"Coin Ratings",
+        "category":"Crypto-currency rating tool",
+        "image":"bitcoin.jpeg",
+        "url":"https://www.theratingproject.com"
+      },
+      {
+        "title":"Resume Website",
+        "category":"A React based resume website template",
+        "image":"resume-website.png",
+        "url":"http://rikengala.github.io/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
