@@ -7,10 +7,10 @@
     "bio":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "rikengala@gmail.com",
-    "phone": "+91-9821137382",
+    "phone": "+1 - (631) 710 9591",
     "address":{
-      "city":"Mumbai",
-      "state":"Maharashtra"
+      "city":"Stony Brook",
+      "state":"New York"
       
     },
     "website": "http://rikengala.github.io/",
@@ -43,17 +43,29 @@
     "skillmessage":"",
     "education":[
       {
+        "school":"Stony Brook University",
+        "degree":"Masters of Science in Computer Science",
+        "graduated":"Dec 2022(expected)",
+      "description":"I am currently pursuing a Masters degree in Computer Science at Stony Brook University, New York. I currently have a cumulative GPA of 3.7/4/0. Relevant Coursework - Machine Learning, Computer Vision, Data Science Fundamentals, Human Computer Interaction, Logic in Computer Science"
+      },
+      {
         "school":"Dwarkadas J Sanghvi College of Engineering",
         "degree":"Bachelors in Engineering",
-        "graduated":"July 2020",
+        "graduated":"Oct 2020",
         "description":"I have pursued a Bachelors degree in Engineering with a major in Information Technology. I graduated with a CGPA of 8.8/10. I was also the Vice-Chairperson of the 'Computer Society of India' which aimed to help other students improve their skills in coding and help increase their knowldege in computer science by taking part in projects"
       }
     ],
     "work":[
       {
+        "company":"Northstar Innovations",
+        "title":"React Native Developer",
+        "years":"Aug 2020 - Oct 2020",
+        "description": "As a React Native developer at Northstar Innovations, I worked on a Student Relationship Management application for schools. The app included features to automate and efficiently handle school tasks like Attendance Management, Leave Management, updating student, teacher and parent information. The app also had additional features like Bus Tracking, Chat, Reminders for Events and Homework"
+      },
+      {
         "company":"Cateina Technologies",
         "title":"Intern",
-        "years":"March 2019 - Present",
+        "years":"March 2019 - March 2020",
         "description": "Developed a mobile application using React Native to allow customers to manage their loyalty points. I also interfaced REST APIs for partner companies to retrieve data using Node JS and designed API documentation using Swagger. THe management of loyalty points is powered using the Stellar blockchain which allows customers to transfer and exchange loyalty points"
       },
       {
