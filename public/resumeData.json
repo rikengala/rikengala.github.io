@@ -2,9 +2,9 @@
   "main": {
     "name":"Riken Gala",
     "occupation":"Software Engineer",
-    "description":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
-    "image":"profilepic.jpg",
-    "bio":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
+    "description":"I am a budding software engineer with experience in Full Stack Development. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
+    "image":"IMG_2804.jpg",
+    "bio":"I am a budding software engineer with experience in Full Stack Development. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "rikengala@gmail.com",
     "phone": "+1 - (631) 710 9591",
@@ -14,7 +14,7 @@
       
     },
     "website": "http://rikengala.github.io/",
-    "resumedownload":"https://drive.google.com/uc?export=download&id=1WrO8hM9pxYOuWQeNy8EwviPXccT0fFom",
+    "resumedownload":"https://drive.google.com/uc?export=download&id=1UQCQEzOSVTckdr9SRQgABzc8PLTxitkF",
     "social":[
       {
         "name":"facebook",
@@ -77,7 +77,7 @@
     ],
     "skills":[
       {
-        "name":"Java",
+        "name":"Python",
         "level":"80%"
       },
       {
