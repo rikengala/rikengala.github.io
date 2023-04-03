@@ -3,14 +3,14 @@
     "name":"Riken Gala",
     "occupation":"Software Engineer",
     "description":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
-    "image":"profilepic.jpg",
+    "image":"IMG_2804.jpg",
     "bio":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "rikengala@gmail.com",
     "phone": "+1 - (631) 710 9591",
     "address":{
-      "city":"Stony Brook",
-      "state":"New York"
+      "city":"Jersey City",
+      "state":"New Jersey"
       
     },
     "website": "http://rikengala.github.io/",
@@ -56,6 +56,12 @@
       }
     ],
     "work":[
+      {
+        "company": "Meta Platforms Inc",
+        "title": "Software Engineer Intern",
+        "years": "May 2022 - Aug 2022",
+        "description": "I worked at Meta as a Full Stack Developer with the Personalized Ads team. I implemented an internal tool to preview advertisement content using data from the content bank before pushing it to production which directly helped multiple cross-functional teams around Meta."
+      },
       {
         "company":"Northstar Innovations",
         "title":"React Native Developer",
@@ -112,7 +118,7 @@
         "title":"Blockchain-based Universal Loyalty Platform",
         "category":"A React Native App used for management of loyalty points",
         "image":"loyaltypoints.jpg",
-        "url":""
+        "url":"https://github.com/divyaamin9825/LoyaltyProgram"
       },
       {
         "title":"Coin Ratings",
@@ -121,10 +127,10 @@
         "url":"https://www.theratingproject.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Parkinson’s Disease Monitoring App",
+        "category":"An interactive remote monitoring platform that incorporates both motor and cognitive tasks aimed to provide high frequency monitoring of symptoms and activities of daily living related to Parkinson's Disease.",
         "image":"resume-website.png",
-        "url":"http://rikengala.github.io/"
+        "url":"https://github.com/shubham-j/Parkinson-s-Disease-Motor-Sensing-App"
       }
     ]
   },
