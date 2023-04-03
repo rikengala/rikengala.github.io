@@ -3,14 +3,14 @@
     "name":"Riken Gala",
     "occupation":"Software Engineer",
     "description":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
-    "image":"profilepic.jpg",
+    "image":"IMG_2804.jpg",
     "bio":"I am a budding software engineer with experience in Web and Mobile Development. I am also very interested in Blockchain and its use-cases in the financial domain. I am aspiring to work for a company in the Finance domain and work there as a Software Engineer/Tech Consultant",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "rikengala@gmail.com",
     "phone": "+1 - (631) 710 9591",
     "address":{
-      "city":"Stony Brook",
-      "state":"New York"
+      "city":"Jersey City",
+      "state":"New Jersey"
       
     },
     "website": "http://rikengala.github.io/",
@@ -46,7 +46,7 @@
         "school":"Stony Brook University",
         "degree":"Masters of Science in Computer Science",
         "graduated":"Dec 2022(expected)",
-      "description":"I am currently pursuing a Masters degree in Computer Science at Stony Brook University, New York. I currently have a cumulative GPA of 3.7/4/0. Relevant Coursework - Machine Learning, Computer Vision, Data Science Fundamentals, Human Computer Interaction, Logic in Computer Science"
+      "description":"I pursued a Masters degree in Computer Science at Stony Brook University, New York. I have a cumulative GPA of 3.5/4/0. Relevant Coursework - Machine Learning, Computer Vision, Data Science Fundamentals, Human Computer Interaction, Logic in Computer Science"
       },
       {
         "school":"Dwarkadas J Sanghvi College of Engineering",
@@ -56,6 +56,12 @@
       }
     ],
     "work":[
+      {
+        "company": "Meta Platforms Inc",
+        "title": "Software Engineer Intern",
+        "years": "May 2022 - Aug 2022",
+        "description": "I worked at Meta as a Full Stack Developer with the Personalized Ads team. I implemented an internal tool to preview advertisement content using data from the content bank before pushing it to production which directly helped multiple cross-functional teams around Meta."
+      },
       {
         "company":"Northstar Innovations",
         "title":"React Native Developer",
@@ -112,7 +118,7 @@
         "title":"Blockchain-based Universal Loyalty Platform",
         "category":"A React Native App used for management of loyalty points",
         "image":"loyaltypoints.jpg",
-        "url":""
+        "url":"https://github.com/divyaamin9825/LoyaltyProgram"
       },
       {
         "title":"Coin Ratings",
@@ -121,22 +127,22 @@
         "url":"https://www.theratingproject.com"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
+        "title":"Parkinson’s Disease Monitoring App",
+        "category":"An interactive remote monitoring platform that incorporates both motor and cognitive tasks aimed to provide high frequency monitoring of symptoms and activities of daily living related to Parkinson's Disease.",
         "image":"resume-website.png",
-        "url":"http://rikengala.github.io/"
+        "url":"https://github.com/shubham-j/Parkinson-s-Disease-Motor-Sensing-App"
       }
     ]
   },
   "testimonials":{
     "testimonials":[
       {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
+        "text":"Riken is an excellent engineer with whom I had the pleasure of working to improve features on our internal Content Management Tool. Riken decided to join our team as a summer intern. His biggest strength I would say is he is open to feedback & implements them asap to help himself grow. He also understands the requirement quickly and unblocks self through the various resources & tools when executing. Riken was able to onboard onto using some of our internal frameworks with ease & shared his learnings later with broader team. He actively participated in team social events & was easy to work with/help based on other team members feedback. I highly recommend Riken if you need to get the job done!",
+        "user":"Abhijith Nair (Manager at Meta)"
       },
       {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "text":"Working with Riken has been an absolute pleasure. He has the strong programming fundamentals required of a software engineer while also having the communication and proactivity of a great team player.While at Meta, we collaborated substantially and I was thoroughly impressed by his ability to jump right into any challenge and independently find the most effective solution to any blocker - be it web development, databases, or cross-functional collaboration. I strongly recommend him and I would unhesitatingly take up the opportunity to work with him again.",
+        "user":"Eric Parton (Mentor at Meta)"
       }
     ]
   }
